@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: right;
+}
+
+li a {
+    text-align: right!important;
+}
+
+.HeaderDiv {
+    height: 50px;
+    background-color: black;
+}
+
+nav {
+    background-color: #505050;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: #505050;
+}
